@@ -7,3 +7,4 @@ echo "Mon projet";
 
 ?> 
 <a href ="page.php">Lien vers la page</a>
+<a href ="clients.php">Clients</a>
