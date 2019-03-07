@@ -1,4 +1,4 @@
 <?php
 
 echo "produits";
-$c = 78;
+$b = 25;
