@@ -9,3 +9,4 @@ echo "Mon projet";
 <a href ="page.php">Lien vers la page</a>
 <a href ="clients.php">clients</a>
 <a href ="fournisseur.php">fournisseur</a>
+<a href ="produit.php">produit</a>
